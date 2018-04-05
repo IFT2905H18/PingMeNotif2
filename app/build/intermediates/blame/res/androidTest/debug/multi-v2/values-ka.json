@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/whip/Downloads/PingMe1/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ka/values-ka.xml",
+            "map": [
+                {
+                    "source": "/home/whip/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/bc9258279373fa125c215921275aa20f/res/values-ka/values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

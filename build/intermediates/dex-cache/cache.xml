@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/rania/.android/build-cache/71b9a212482cdc54cc7d07956bdf8124556e4931/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/rania/mint/AndroidStudioProjects/PingMe1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_a6b902feba2a341aa6e101e2dac68a971e9fea71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rania/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/rania/mint/AndroidStudioProjects/PingMe1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_40e3654c2e13fbb4d837b6dda15a090e97a0ecab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rania/mint/AndroidStudioProjects/PingMe1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/rania/mint/AndroidStudioProjects/PingMe1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_72b66c6f1af8ceb93eb1d18a91a8b800e8fd297f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rania/.android/build-cache/71b9a212482cdc54cc7d07956bdf8124556e4931/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/rania/mint/AndroidStudioProjects/PingMe1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_661b5bd9ab371f16f27e4698264ce9d7a09ad0a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rania/mint/AndroidStudioProjects/PingMe1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1cd313bef3b719bb65914ce362e45ebc77dbdbb">
+        <dex dex="/home/rania/mint/AndroidStudioProjects/PingMe1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4b64d0a5556f485b1cadb2d99c4c29bc8c70a344/classes.dex" />
+    </item>
+
+</items>

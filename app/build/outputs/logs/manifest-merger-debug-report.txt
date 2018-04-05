@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:17:1-51:12
+INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:17:1-51:12
+INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:17:1-51:12
+INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:17:1-51:12
+MERGED from [com.android.support:support-v4:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/f811263edaaeb294a259d51ff4079953/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/96fa3925fc082ce8106c3470ef17c767/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/8dad609b34d05891558d506ff45e2587/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/54d5f98c48f201a19128be1fcdc9486b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/62454cecbe94a335a667fe0e47c536ee/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/bc9258279373fa125c215921275aa20f/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:17:1-51:12
+INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:17:1-51:12
+INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:17:1-51:12
+	package
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:18:5-41
+		INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:22:5-24:41
+INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:22:5-24:41
+INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/f811263edaaeb294a259d51ff4079953/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/f811263edaaeb294a259d51ff4079953/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/96fa3925fc082ce8106c3470ef17c767/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/96fa3925fc082ce8106c3470ef17c767/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/8dad609b34d05891558d506ff45e2587/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/8dad609b34d05891558d506ff45e2587/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/54d5f98c48f201a19128be1fcdc9486b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/54d5f98c48f201a19128be1fcdc9486b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/62454cecbe94a335a667fe0e47c536ee/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/62454cecbe94a335a667fe0e47c536ee/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/bc9258279373fa125c215921275aa20f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/bc9258279373fa125c215921275aa20f/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:22:5-24:41
+INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:22:5-24:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/f811263edaaeb294a259d51ff4079953/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:24:9-38
+		INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:23:9-34
+		INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:25:5-65
+	android:name
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:25:22-63
+application
+ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:27:5-50:19
+MERGED from [com.android.support:support-v4:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/f811263edaaeb294a259d51ff4079953/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/f811263edaaeb294a259d51ff4079953/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/96fa3925fc082ce8106c3470ef17c767/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/96fa3925fc082ce8106c3470ef17c767/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/8dad609b34d05891558d506ff45e2587/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/8dad609b34d05891558d506ff45e2587/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/54d5f98c48f201a19128be1fcdc9486b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/54d5f98c48f201a19128be1fcdc9486b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/62454cecbe94a335a667fe0e47c536ee/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/62454cecbe94a335a667fe0e47c536ee/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/bc9258279373fa125c215921275aa20f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/bc9258279373fa125c215921275aa20f/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:28:9-45
+	android:description
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:30:9-54
+activity#com.example.android.pingme.MainActivity
+ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:32:9-39:20
+	android:label
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:34:13-42
+	android:name
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:33:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:37:27-74
+service#com.example.android.pingme.PingService
+ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:40:9-43:19
+	android:enabled
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:42:46-68
+	android:label
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:41:13-39
+activity#com.example.android.pingme.ResultActivity
+ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:44:9-49:48
+	android:label
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:46:13-40
+	android:excludeFromRecents
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:47:13-44
+	android:taskAffinity
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:48:13-36
+	android:name
+		ADDED from /home/whip/Downloads/PingMe1/app/src/main/AndroidManifest.xml:45:13-42
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/f811263edaaeb294a259d51ff4079953/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/96fa3925fc082ce8106c3470ef17c767/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/96fa3925fc082ce8106c3470ef17c767/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/8dad609b34d05891558d506ff45e2587/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/8dad609b34d05891558d506ff45e2587/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/54d5f98c48f201a19128be1fcdc9486b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/54d5f98c48f201a19128be1fcdc9486b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/62454cecbe94a335a667fe0e47c536ee/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/62454cecbe94a335a667fe0e47c536ee/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/bc9258279373fa125c215921275aa20f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/bc9258279373fa125c215921275aa20f/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/f811263edaaeb294a259d51ff4079953/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.0.0] /home/whip/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/f811263edaaeb294a259d51ff4079953/AndroidManifest.xml:27:13-51
